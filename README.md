@@ -8,7 +8,7 @@ This repository has already been initialized, but it will take some time to rece
 
 ### Dependencies
 
-- At least one [HyperX](https://github.com/ezlage/HyperX) descendant provided with a wrapper and parser for some API
+- At least one [HyperX](https://github.com/ezlage/HyperX) descendant provided with a wrapper and a parser for some API
 - [xLedger](https://github.com/ezlage/xLedger)
 
 ### Change log and roadmap
